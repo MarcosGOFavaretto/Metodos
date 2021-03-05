@@ -1,6 +1,6 @@
 /**
- * Programa: Método
- * Autor: Marcos Gabriel De Olveira Favaretto
+ * Programa: Método.
+ * Autor: Marcos Gabriel De Olveira Favaretto.
  * Data: 01 de Agosto de 2019.
  */
 package metodo;
